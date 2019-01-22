@@ -1,6 +1,7 @@
 # phys-formules
+
+A nice cheat sheet with physics formulas from school course
+
 Very old school project
 
-Was (and is) hosting on phys-formules.narod.ru
-
-End of life approximately 2011
+Компактная шпаргалка с физическими формулами из школьного курса физики
